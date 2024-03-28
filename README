@@ -1,4 +1,4 @@
-This model initiates a population of girls (starting at age 7) born with perinatally acuired HIV infection. The model follows the girls over the lifecourse to estimate cervical cancer incidence rates after employing a variety of HPV vaccination stratigies.
+This model initiates a population of girls (starting at age 7) born with perinatally acuired HIV infection. The model follows the girls over the lifecourse to estimate cervical cancer incidence rates after employing a variety of HPV vaccination and self sampling stratigies.
 
 The vaccination strategies are:
 
